@@ -1,0 +1,23 @@
+.jumbotron h1,
+#about p {
+  font-family: 'PT Sans', sans-serif;
+}
+
+.jumbotron p {
+  font-family: 'Play', sans-serif;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #facccc;
+}
+
+
+
+#gallery {
+  background-color: #facccc;
+}
+
+section {
+  padding-top: 6rem;
+}
